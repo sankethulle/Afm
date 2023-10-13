@@ -1,2 +1,2 @@
 # Afm
-THis is the test repo afm
+THis is the afm project read me file
